@@ -1,4 +1,4 @@
-# reminder
+# Todo app
 
 A new Flutter project.
 
